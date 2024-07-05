@@ -52,7 +52,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd cuadro
+  cd Doodle Room
 ```
 
 Install dependencies (Client Side)
@@ -64,6 +64,10 @@ Install dependencies (Server Side)
 
 ```bash
 cd server && npm install
+```
+
+```bash
+  npm init
 ```
 
 Start the server
